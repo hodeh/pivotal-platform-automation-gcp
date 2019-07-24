@@ -61,7 +61,7 @@ resources:
 - name: mysql-product
   type: gcs
   source:
-    regexp: pivotal-mysql-2.5.3-build.7.pivotal
+    regexp: pivotal-mysql-(.*).pivotal
     bucket: ((gcs-bucket))
     json_key: |
       ((gcp-credentials))
