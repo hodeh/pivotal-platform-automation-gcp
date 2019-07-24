@@ -16,7 +16,7 @@ product-properties:
   .properties.opsman.enable.url:
     value: https://opsman.((subdomain-name)).((domain-name))
   .healthwatch-forwarder.health_check_az:
-    value: ((region))-a
+    value: ((az1))
   .properties.boshtasks:
     value: disable
 errand-config:
