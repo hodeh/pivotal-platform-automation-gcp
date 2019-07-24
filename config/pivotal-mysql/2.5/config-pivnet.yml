@@ -2,5 +2,5 @@
 pivnet-api-token: ((pivnet-api-token))
 pivnet-file-glob: pivotal-mysql-*.pivotal
 pivnet-product-slug: pivotal-mysql
-product-version-regex: 2\.5\.3
+product-version-regex: 2\.6\.0
 stemcell-iaas: google
